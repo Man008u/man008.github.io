@@ -1,0 +1,34 @@
+#Div0001{
+	display: flex;
+    justify-content: right; /* Centra horizontalmente */
+    align-items: center;   /* Centra verticalmente */
+
+    margin-top: 5vh;
+
+}
+#Div0002{
+	width: 30vw;
+
+}
+#Button001{
+	border: none;
+	color: #FFFFFF;
+	background: #142540;
+
+	padding:10px;
+	padding-left: 20px;
+	padding-right: 20px;
+
+	border-radius: 30px;
+}
+#search{
+	padding-left: 20px;
+
+	border: .5px .5px;
+	border-radius: 20px;
+	border-color: #142540;
+}
+#dalete{
+	margin-top: 5vh;
+	background: red;
+}
